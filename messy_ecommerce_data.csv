@@ -1,0 +1,124 @@
+Order_ID,Customer_Name,Age,Email,Product,Quantity,Unit_Price,Order_Date,City
+ORD-1001,Karim Nabil,22.0,customer1@example.com,Wireless Mouse,2,49.22,2026-08-11,Mansoura
+ORD-1002,Sara Ahmed,37.0,customer2@example.com,Keyboard,4,76.47,2026-01-11,Mansoura
+ORD-1003,hana khaled,20.0,customer3@example.com,Wireless Mouse,3,75.66,2026-01-28,Alexandria
+ORD-1004,Mona Ali,48.0,customer4@example.com,Headphones,3,12.12,2026-02-16,Tanta
+ORD-1005,Laila Mostafa,,customer5@example.com,Laptop Stand,2,28.06,2026-07-15,Cairo
+ORD-1006,Omar Hassan,42.0,customer6@example.com,USB-C Hub,2,58.61,2026-05-24,Mansoura
+ORD-1007,Salma Fathy,27.0,customer7@example.com,Headphones,2,30.75,2026-08-05, MANSOURA 
+ORD-1008,Youssef Adel,45.0,customer8@example.com,Headphones,2,119.0,2026-03-15,Alexandria
+ORD-1009,Laila Mostafa,52.0,,Keyboard,1,81.95,2026-08-23,Damietta
+ORD-1010,Laila Mostafa,53.0,customer10@example.com,Keyboard,3,61.67,2026-03-10,Damietta
+ORD-1011,Adam Tarek,250.0,customer11@example.com,USB-C Hub,4,109.78,2026-08-10,Cairo
+ORD-1012,Mona Ali,60.0,customer12@example.com,Keyboard,1,46.42,2026-05-07,Cairo
+ORD-1013,Adam Tarek,19.0,customer13@example.com,USB-C Hub,3,62.82,2026-01-04,
+ORD-1014,Karim Nabil,18.0,customer14@example.com,Keyboard,2,64.5,2026-06-07,Mansoura
+ORD-1015,Mona Ali,30.0,customer15@example.com,Keyboard,3,35.87,2026-08-15,Cairo
+ORD-1016,mona ali,46.0,customer16@example.com,Keyboard,4,80.44,2026-10-09,Alexandria
+ORD-1017,Karim Nabil,54.0,customer17@example.com,USB-C Hub,2,66.21,2026-02-20,Damietta
+ORD-1018,Sara Ahmed,42.0,customer18@example.com,Wireless Mouse,4,96.97,2026-10-24,Mansoura
+ORD-1019,Laila Mostafa,40.0,customer19@example.com,Laptop Stand,1,77.58,2026-09-30,Damietta
+ORD-1020,Sara Ahmed,,customer20@example.com,USB-C Hub,1,9.24,2026-08-05,Mansoura
+ORD-1021,Sara Ahmed,42.0,customer21@example.com,Keyboard,1,70.96,2026-01-29,Cairo
+ORD-1022,Laila Mostafa,30.0,customer22@example.com,Wireless Mouse,3,109.28,2026-07-19,Alexandria
+ORD-1023,Nour Samir,26.0,customer23@example.com,,3,59.04,2026-06-05,Tanta
+ORD-1024,Adam Tarek,57.0,customer24@example.com,Headphones,3,25.64,2026-01-10,Mansoura
+ORD-1025,Hana Khaled,20.0,customer25@example.com,Headphones,4,82.12,2026-01-10,Mansoura
+ORD-1026,Karim Nabil,31.0,customer26@example.com,Wireless Mouse,2,61.07,2026-06-04,Damietta
+ORD-1027,Laila Mostafa,56.0,customer27@example.com,Headphones,2,23.0,2026-04-25,Tanta
+ORD-1028,Nour Samir,36.0,customer28@example.com,Laptop Stand,1,26.0,2026-04-06,Tanta
+ORD-1029,Hana Khaled,52.0,customer29@example.com,USB-C Hub,2,66.18,2026-02-26, CAIRO 
+ORD-1030,Nour Samir,28.0,customer30@example.com,USB-C Hub,2,48.9,2026-01-09,Alexandria
+ORD-1031,Hana Khaled,36.0,customer31@example.com,Keyboard,1,86.63,2026-08-10,Tanta
+ORD-1032,Hana Khaled,39.0,,USB-C Hub,3,9.08,2026-03-20,Cairo
+ORD-1033,Nour Samir,58.0,customer33@example.com,USB-C Hub,2,19.58,2026-10-18,Alexandria
+ORD-1034,Mona Ali,46.0,customer34@example.com,Headphones,1,105.17,2026-02-02,Alexandria
+ORD-1035,Karim Nabil,44.0,customer35@example.com,USB-C Hub,2,114.61,2026-05-06,Tanta
+ORD-1036,Adam Tarek,53.0,customer36@example.com,Wireless Mouse,4,63.25,2026-01-06,Damietta
+ORD-1037,Hana Khaled,45.0,customer37@example.com,Keyboard,3,48.89,2026-03-05,Damietta
+ORD-1038,Laila Mostafa,18.0,customer38@example.com,USB-C Hub,2,43.87,2026-08-31,Alexandria
+ORD-1039,Mona Ali,27.0,customer39@example.com,Laptop Stand,1,74.69,2026-01-13,Tanta
+ORD-1040,omar hassan,60.0,customer40@example.com,USB-C Hub,3,50.95,2026-10-15,Alexandria
+ORD-1041,Mona Ali,33.0,customer41@example.com,Headphones,3,72.01,2026-04-06,Mansoura
+ORD-1042,Mona Ali,58.0,customer42@example.com,Wireless Mouse,3,102.74,2026-02-17,Tanta
+ORD-1043,Adam Tarek,45.0,customer43@example.com,Laptop Stand,3,83.75,2026-09-07,Tanta
+ORD-1044,Adam Tarek,34.0,customer44@example.com,Wireless Mouse,3,32.54,2026-07-13,
+ORD-1045,Mona Ali,41.0,customer45@example.com,USB-C Hub,0,109.73,2026-05-29,Cairo
+ORD-1046,Adam Tarek,46.0,customer46@example.com,Keyboard,2,90.58,2026-01-25,Alexandria
+ORD-1047,Karim Nabil,48.0,customer47@example.com,Headphones,1,57.87,2026-10-24,Cairo
+ORD-1048,Salma Fathy,22.0,customer48@example.com,USB-C Hub,2,51.13,2026-05-27,Tanta
+ORD-1049,Karim Nabil,45.0,customer49@example.com,Headphones,2,45.39,2026-07-31,Alexandria
+ORD-1050,Nour Samir,55.0,customer50@example.com,Headphones,4,75.97,2026-07-21,Cairo
+ORD-1051,Laila Mostafa,56.0,customer51@example.com,Laptop Stand,2,25.81,2026-05-02,Cairo
+ORD-1052,Hana Khaled,20.0,customer52@example.com,Headphones,4,65.68,2026-06-02,Mansoura
+ORD-1053,Hana Khaled,28.0,customer53@example.com,Wireless Mouse,2,10.77,2026-09-01,Tanta
+ORD-1054,Adam Tarek,27.0,customer54@example.com,Headphones,4,48.38,2026-10-07,Cairo
+ORD-1055,Sara Ahmed,19.0,customer55@example.com,Laptop Stand,4,52.72,2026-06-30,Cairo
+ORD-1056,Laila Mostafa,,customer56@example.com,Wireless Mouse,3,27.72,2026-03-16,Alexandria
+ORD-1057,Sara Ahmed,32.0,customer57@example.com,Wireless Mouse,3,12.44,2026-01-10,Alexandria
+ORD-1058,Sara Ahmed,22.0,customer58@example.com,Keyboard,3,85.08,2026-07-17,Damietta
+ORD-1059,Nour Samir,27.0,customer59@example.com,Wireless Mouse,2,66.25,2026-07-18,Mansoura
+ORD-1060,Laila Mostafa,39.0,customer60@example.com,Keyboard,4,10.08,2026-06-26,Alexandria
+ORD-1061,Omar Hassan,25.0,customer61@example.com,Wireless Mouse,3,38.42,2026-10-21,Alexandria
+ORD-1062,Nour Samir,44.0,customer62@example.com,Headphones,1,51.73,2026-03-18,Tanta
+ORD-1063,Laila Mostafa,25.0,customer63@example.com,Headphones,2,13.34,2026-03-17,Damietta
+ORD-1064,Nour Samir,18.0,customer64@example.com,Laptop Stand,1,113.02,2026-05-11, ALEXANDRIA 
+ORD-1065,Sara Ahmed,47.0,customer65@example.com,Laptop Stand,4,82.87,2026-01-03,Damietta
+ORD-1066,Youssef Adel,19.0,customer66@example.com,Keyboard,4,85.41,2026-01-23,Mansoura
+ORD-1067,Youssef Adel,45.0,customer67@example.com,,2,57.12,2026-06-03,Mansoura
+ORD-1068,Adam Tarek,27.0,customer68@example.com,Wireless Mouse,4,24.65,2026-05-17,Damietta
+ORD-1069,Karim Nabil,21.0,customer69@example.com,Wireless Mouse,1,92.75,2026-04-17,Damietta
+ORD-1070,Sara Ahmed,42.0,customer70@example.com,Wireless Mouse,4,40.44,2026-01-23,Damietta
+ORD-1071,Laila Mostafa,31.0,customer71@example.com,Keyboard,1,114.51,2026-03-03,Cairo
+ORD-1072,Youssef Adel,28.0,customer72@example.com,USB-C Hub,2,99.99,2026-09-29,Alexandria
+ORD-1073,karim nabil,50.0,customer73@example.com,Headphones,4,78.17,2026-07-01,Alexandria
+ORD-1074,Mona Ali,21.0,customer74@example.com,Keyboard,2,45.28,2026-06-06,Mansoura
+ORD-1075,Salma Fathy,59.0,customer75@example.com,Laptop Stand,2,32.73,2026-06-13,Tanta
+ORD-1076,Adam Tarek,37.0,customer76@example.com,Keyboard,3,91.35,2026-04-03,Damietta
+ORD-1077,Hana Khaled,18.0,customer77@example.com,Keyboard,4,50.26,2026-07-23,Tanta
+ORD-1078,Laila Mostafa,50.0,,Headphones,1,27.58,2026-02-05,Damietta
+ORD-1079,Hana Khaled,26.0,customer79@example.com,Keyboard,2,49.86,2026-10-18,Alexandria
+ORD-1080,Nour Samir,22.0,customer80@example.com,Headphones,2,44.41,2026-10-23,Damietta
+ORD-1081,Sara Ahmed,37.0,customer81@example.com,Headphones,3,-15.0,2026-02-16,Cairo
+ORD-1082,Salma Fathy,38.0,customer82@example.com,Laptop Stand,2,71.75,2026-07-05,Damietta
+ORD-1083,Mona Ali,27.0,customer83@example.com,Keyboard,3,53.58,2026-07-06,Alexandria
+ORD-1084,Nour Samir,32.0,customer84@example.com,Laptop Stand,2,73.83,2026-06-30,Cairo
+ORD-1085,Hana Khaled,40.0,customer85@example.com,Laptop Stand,3,21.59,2026-10-27,Cairo
+ORD-1086,Omar Hassan,41.0,customer86@example.com,Keyboard,3,42.77,2026-08-06,Alexandria
+ORD-1087,Sara Ahmed,50.0,customer87@example.com,Keyboard,3,46.34,2026-09-09,Mansoura
+ORD-1088,Youssef Adel,,customer88@example.com,Keyboard,2,71.36,2026-06-29,Damietta
+ORD-1089,Adam Tarek,25.0,customer89@example.com,Laptop Stand,2,72.41,2026-02-11,Alexandria
+ORD-1090,Karim Nabil,28.0,customer90@example.com,USB-C Hub,2,58.21,2026-01-01,Alexandria
+ORD-1091,Sara Ahmed,47.0,customer91@example.com,Laptop Stand,2,112.45,2026-07-10,Damietta
+ORD-1092,Sara Ahmed,21.0,customer92@example.com,Laptop Stand,1,12.81,2026-04-13,
+ORD-1093,Mona Ali,34.0,customer93@example.com,Laptop Stand,1,79.38,2026-06-10,Cairo
+ORD-1094,Laila Mostafa,32.0,customer94@example.com,Laptop Stand,3,77.24,2026-04-19,Cairo
+ORD-1095,Laila Mostafa,29.0,customer95@example.com,Wireless Mouse,2,22.63,2026-10-07,Tanta
+ORD-1096,Salma Fathy,23.0,customer96@example.com,Wireless Mouse,3,74.39,2026-06-17,Cairo
+ORD-1097,Karim Nabil,59.0,customer97@example.com,Headphones,4,20.32,2026-04-01,Alexandria
+ORD-1098,Adam Tarek,31.0,customer98@example.com,Headphones,1,39.24,2026-02-24,Tanta
+ORD-1099,Mona Ali,44.0,customer99@example.com,USB-C Hub,3,77.33,2026-07-05,Tanta
+ORD-1100,Laila Mostafa,38.0,customer100@example.com,Headphones,3,20.25,2026-10-13,Alexandria
+ORD-1101,Nour Samir,18.0,customer101@example.com,Headphones,1,70.72,2026-09-23,Alexandria
+ORD-1102,Salma Fathy,37.0,customer102@example.com,Wireless Mouse,2,23.02,2026-02-12,Tanta
+ORD-1103,Mona Ali,37.0,customer103@example.com,Keyboard,3,71.45,2026-01-02,Tanta
+ORD-1104,Mona Ali,36.0,customer104@example.com,USB-C Hub,4,29.11,2026-08-07,Cairo
+ORD-1105,Hana Khaled,56.0,customer105@example.com,USB-C Hub,4,13.5,2026-10-20,Damietta
+ORD-1106,Sara Ahmed,47.0,customer106@example.com,Headphones,4,61.68,2026-03-13,Tanta
+ORD-1107,Karim Nabil,59.0,customer107@example.com,Laptop Stand,2,66.14,2026-07-12,Tanta
+ORD-1108,Adam Tarek,57.0,customer108@example.com,USB-C Hub,4,71.1,2026-08-06,Cairo
+ORD-1109,Laila Mostafa,23.0,customer109@example.com,USB-C Hub,1,65.25,2026-06-04,Alexandria
+ORD-1110,Karim Nabil,46.0,customer110@example.com,USB-C Hub,1,80.66,2026-08-06,Cairo
+ORD-1111,Karim Nabil,35.0,customer111@example.com,USB-C Hub,4,66.76,2026-10-12,Alexandria
+ORD-1112,Sara Ahmed,59.0,customer112@example.com,Headphones,3,86.89,2026-04-27,Alexandria
+ORD-1113,Nour Samir,53.0,customer113@example.com,Headphones,1,70.76,2026-04-30,Tanta
+ORD-1114,Omar Hassan,39.0,customer114@example.com,Keyboard,4,56.68,2026-02-04,Alexandria
+ORD-1115,Sara Ahmed,51.0,customer115@example.com,Wireless Mouse,1,56.27,2026-02-20,Damietta
+ORD-1116,Hana Khaled,32.0,customer116@example.com,Wireless Mouse,4,111.4,2026-04-10,Damietta
+ORD-1117,Mona Ali,27.0,customer117@example.com,Laptop Stand,3,20.06,2026-05-27,Tanta
+ORD-1118,Mona Ali,54.0,customer118@example.com,Keyboard,2,52.04,2026-09-20,Mansoura
+ORD-1119,Mona Ali,40.0,customer119@example.com,Headphones,2,114.29,2026-02-20,Damietta
+ORD-1120,Nour Samir,21.0,customer120@example.com,Laptop Stand,1,21.58,2026-03-03,Mansoura
+ORD-1006,Omar Hassan,42.0,customer6@example.com,USB-C Hub,2,58.61,2026-05-24,Mansoura
+ORD-1019,Laila Mostafa,40.0,customer19@example.com,Laptop Stand,1,77.58,2026-09-30,Damietta
+ORD-1045,Mona Ali,41.0,customer45@example.com,USB-C Hub,0,109.73,2026-05-29,Cairo

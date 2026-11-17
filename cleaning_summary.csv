@@ -1,0 +1,9 @@
+Metric,Result
+Rows before cleaning,123
+Duplicate rows removed,3
+Rows after cleaning,120
+Missing cells before,12
+Missing cells after,0
+Invalid age values corrected,1
+Invalid quantity values corrected,1
+Invalid prices corrected,1
